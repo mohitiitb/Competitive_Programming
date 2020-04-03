@@ -1,6 +1,6 @@
 # Competitive_Programming
 
-## A curated list of awesome *Competitive Programming* resources
+## A curated list of *Competitive Programming* resources
 
 For each of the algorithms/ideas, you can find the solution to the problems in the respective directory.
 
@@ -16,3 +16,5 @@ The repository also contains the competitive programming handbook by "Antti Laak
     - https://www.hackerearth.com/practice/notes/mos-algorithm/
     - Problems
     1. https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xterminus-wars-final-episode-this-is-the-way/description/
+    
+- FFT
