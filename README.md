@@ -18,3 +18,9 @@ The repository also contains the competitive programming handbook by "Antti Laak
     1. https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xterminus-wars-final-episode-this-is-the-way/description/
     
 - FFT
+
+- KMP
+    - https://cp-algorithms.com/string/prefix-function.html
+    - Problems
+    1. https://www.codechef.com/CHPTRS01/problems/CSCARE
+    2. https://codeforces.com/contest/808/problem/G
