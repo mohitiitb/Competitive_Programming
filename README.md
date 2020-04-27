@@ -24,3 +24,10 @@ The repository also contains the competitive programming handbook by "Antti Laak
     - Problems
     1. https://www.codechef.com/CHPTRS01/problems/CSCARE
     2. https://codeforces.com/contest/808/problem/G
+
+
+- Grundy Numbers
+    - http://letuskode.blogspot.com/2014/08/grundy-numbers.html
+    - Problems
+    1. https://www.codechef.com/problems/WPLAY
+    2. https://www.codechef.com/SEP09/problems/G3
